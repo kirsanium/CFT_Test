@@ -1,0 +1,14 @@
+/home/kirsanium/RiderProjects/CFT/CFT/bin/Debug/netcoreapp2.2/CFT.deps.json
+/home/kirsanium/RiderProjects/CFT/CFT/bin/Debug/netcoreapp2.2/CFT.runtimeconfig.json
+/home/kirsanium/RiderProjects/CFT/CFT/bin/Debug/netcoreapp2.2/CFT.runtimeconfig.dev.json
+/home/kirsanium/RiderProjects/CFT/CFT/bin/Debug/netcoreapp2.2/CFT.dll
+/home/kirsanium/RiderProjects/CFT/CFT/bin/Debug/netcoreapp2.2/CFT.pdb
+/home/kirsanium/RiderProjects/CFT/CFT/obj/Debug/netcoreapp2.2/CFT.csprojAssemblyReference.cache
+/home/kirsanium/RiderProjects/CFT/CFT/obj/Debug/netcoreapp2.2/CFT.csproj.CoreCompileInputs.cache
+/home/kirsanium/RiderProjects/CFT/CFT/obj/Debug/netcoreapp2.2/CFT.RazorAssemblyInfo.cache
+/home/kirsanium/RiderProjects/CFT/CFT/obj/Debug/netcoreapp2.2/CFT.RazorAssemblyInfo.cs
+/home/kirsanium/RiderProjects/CFT/CFT/obj/Debug/netcoreapp2.2/CFT.AssemblyInfoInputs.cache
+/home/kirsanium/RiderProjects/CFT/CFT/obj/Debug/netcoreapp2.2/CFT.AssemblyInfo.cs
+/home/kirsanium/RiderProjects/CFT/CFT/obj/Debug/netcoreapp2.2/CFT.RazorTargetAssemblyInfo.cache
+/home/kirsanium/RiderProjects/CFT/CFT/obj/Debug/netcoreapp2.2/CFT.dll
+/home/kirsanium/RiderProjects/CFT/CFT/obj/Debug/netcoreapp2.2/CFT.pdb

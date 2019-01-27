@@ -1,0 +1,21 @@
+version: '2'
+
+services:
+  cftdbpostgres:
+    image: cftdbpostgres
+    restart: always
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 5432:5432
+    environment:
+      POSTGRES_DB: cftdb
+      POSTGRES_USER: cftdb
+      POSTGRES_PASSWORD: cftdb
+    volumes:
+      - ./db/scripts/10-init.sql:/docker-entrypoint-initdb.d/10-init.sql
+      - ./pgdata:/var/lib/postgresql/data
+
+volumes:
+  pgdata:
