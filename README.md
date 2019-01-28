@@ -2,8 +2,7 @@
 
 ### Setting up
 
-`docker-compose build`
-`docker-compose up`
+`docker-compose build && docker-compose up`
 to deploy the application.
 
 ### General usage
