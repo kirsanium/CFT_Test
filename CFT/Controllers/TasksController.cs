@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using CFT.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json;
 using Task = CFT.Models.Task;
 using TaskStatus = CFT.Models.TaskStatus;
@@ -27,6 +28,7 @@ namespace CFT.Controllers
         public TasksController(ProjectContext context)
         {
             db = context;
+            db.Database.Migrate();
         }
         
         // GET api/tasks?page=1&parameter=value

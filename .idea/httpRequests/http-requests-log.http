@@ -1,0 +1,58 @@
+POST http://localhost:5000/api/tasks
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "name": "qq",
+  "description": "ww",
+  "priority": 5,
+  "projectid": 1
+}
+
+<> 2019-01-28T014711.200.json
+
+###
+
+POST https://localhost:5001/api/tasks
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "name": "qq",
+  "description": "ww",
+  "priority": 5,
+  "projectid": 1
+}
+
+###
+
+POST http://localhost:5000/api/projects
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "name": "kek",
+  "description": "jaj"
+}
+
+<> 2019-01-28T014654.200.json
+
+###
+
+POST http://localhost:5000/api/projects
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "name": "kek",
+  "description": "jaj"
+}
+
+<> 2019-01-28T012015.200.json
+
+###
+

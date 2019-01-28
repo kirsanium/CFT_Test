@@ -12206,11 +12206,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kirsanium/RiderProjects/CFT/CFT/CFT.csproj",
+      "projectUniqueName": "/home/kirsanium/RiderProjects/CFT/CFT_Test/CFT/CFT.csproj",
       "projectName": "CFT",
-      "projectPath": "/home/kirsanium/RiderProjects/CFT/CFT/CFT.csproj",
+      "projectPath": "/home/kirsanium/RiderProjects/CFT/CFT_Test/CFT/CFT.csproj",
       "packagesPath": "/home/kirsanium/.nuget/packages/",
-      "outputPath": "/home/kirsanium/RiderProjects/CFT/CFT/obj/",
+      "outputPath": "/home/kirsanium/RiderProjects/CFT/CFT_Test/CFT/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

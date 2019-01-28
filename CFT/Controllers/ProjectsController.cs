@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using CFT.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Newtonsoft.Json;
 using Task = CFT.Models.Task;
@@ -21,6 +22,7 @@ namespace CFT.Controllers
         public ProjectsController(ProjectContext context)
         {
             db = context;
+            db.Database.Migrate();
         }
         
         // GET api/projects?page=1

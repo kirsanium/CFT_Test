@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/kirsanium/RiderProjects/CFT/CFT/CFT.csproj",
+    "projectUniqueName": "/home/kirsanium/RiderProjects/CFT/CFT_Test/CFT/CFT.csproj",
     "projectName": "CFT",
-    "projectPath": "/home/kirsanium/RiderProjects/CFT/CFT/CFT.csproj",
-    "outputPath": "/home/kirsanium/RiderProjects/CFT/CFT/obj/",
+    "projectPath": "/home/kirsanium/RiderProjects/CFT/CFT_Test/CFT/CFT.csproj",
+    "outputPath": "/home/kirsanium/RiderProjects/CFT/CFT_Test/CFT/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/share/dotnet/sdk/NuGetFallbackFolder"

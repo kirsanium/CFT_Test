@@ -14,7 +14,6 @@ services:
       POSTGRES_USER: cftdb
       POSTGRES_PASSWORD: cftdb
     volumes:
-      - ./db/scripts/10-init.sql:/docker-entrypoint-initdb.d/10-init.sql
       - ./pgdata:/var/lib/postgresql/data
 
 volumes:

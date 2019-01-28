@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e21704cd-7b0b-4c3d-ba88-36f2ccc1aa62" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/CFT/Controllers/ProjectsController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CFT/Controllers/ProjectsController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CFT/Controllers/TasksController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CFT/Controllers/TasksController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CFT/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CFT/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CFT/obj/CFT.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CFT/obj/CFT.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CFT/obj/CFT.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/CFT/obj/CFT.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CFT/obj/Debug/netcoreapp2.2/CFT.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CFT/obj/Debug/netcoreapp2.2/CFT.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CFT/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CFT/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CFT/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CFT/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/postgresdocker/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/postgresdocker/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/postgresdocker/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/postgresdocker/docker-compose.yml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CFT/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+              <folding>
+                <marker date="1548656183652" expanded="false" signature="6:457" ph="..." />
+                <marker date="1548656183652" expanded="true" signature="472:1768" ph="{...}" />
+                <marker date="1548656183652" expanded="true" signature="499:1766" ph="{...}" />
+                <marker date="1548656183652" expanded="true" signature="558:621" ph="{...}" />
+                <marker date="1548656183652" expanded="true" signature="844:1148" ph="{...}" />
+                <marker date="1548656183652" expanded="true" signature="1336:1760" ph="{...}" />
+                <marker date="1548656183652" expanded="true" signature="1383:1460" ph="{...}" />
+                <marker date="1548656183652" expanded="true" signature="1477:1682" ph="{...}" />
+                <marker date="1548656183652" expanded="true" signature="1508:1668" ph="/* The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/as ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CFT/Controllers/ProjectsController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="24" selection-end-column="34" />
+              <folding>
+                <marker date="1548656183608" expanded="false" signature="6:303" ph="..." />
+                <marker date="1548656183608" expanded="true" signature="330:3989" ph="{...}" />
+                <marker date="1548656183608" expanded="true" signature="437:3987" ph="{...}" />
+                <marker date="1548656183608" expanded="true" signature="555:636" ph="{...}" />
+                <marker date="1548656183608" expanded="true" signature="775:1342" ph="{...}" />
+                <marker date="1548656183608" expanded="true" signature="1448:1650" ph="{...}" />
+                <marker date="1548656183608" expanded="true" signature="1779:1898" ph="{...}" />
+                <marker date="1548656183608" expanded="true" signature="2038:2325" ph="{...}" />
+                <marker date="1548656183608" expanded="true" signature="2431:2671" ph="{...}" />
+                <marker date="1548656183608" expanded="true" signature="3009:3981" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CFT/Controllers/TasksController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+              <folding>
+                <marker date="1548656187324" expanded="false" signature="6:325" ph="..." />
+                <marker date="1548656187324" expanded="true" signature="352:9965" ph="{...}" />
+                <marker date="1548656187324" expanded="true" signature="456:7242" ph="{...}" />
+                <marker date="1548656187324" expanded="true" signature="484:543" ph="{...}" />
+                <marker date="1548656187324" expanded="true" signature="652:733" ph="{...}" />
+                <marker date="1548656187324" expanded="true" signature="751:1177" ph="/* GET api/tasks?page=1&amp;parameter=value ... */" />
+                <marker date="1548656187324" expanded="true" signature="1471:5356" ph="{...}" />
+                <marker date="1548656187324" expanded="true" signature="1511:2548" ph="{...}" />
+                <marker date="1548656187324" expanded="true" signature="3215:3467" ph="{...}" />
+                <marker date="1548656187324" expanded="true" signature="3644:3881" ph="{...}" />
+                <marker date="1548656187324" expanded="true" signature="3910:4157" ph="{...}" />
+                <marker date="1548656187324" expanded="true" signature="4202:4522" ph="{...}" />
+                <marker date="1548656187324" expanded="true" signature="4574:4894" ph="{...}" />
+                <marker date="1548656187324" expanded="true" signature="5456:5643" ph="{...}" />
+                <marker date="1548656187324" expanded="true" signature="5760:6118" ph="{...}" />
+                <marker date="1548656187324" expanded="true" signature="6249:6908" ph="{...}" />
+                <marker date="1548656187324" expanded="true" signature="6548:6772" ph="{...}" />
+                <marker date="1548656187324" expanded="true" signature="7011:7236" ph="{...}" />
+                <marker date="1548656187324" expanded="true" signature="7275:9963" ph="{...}" />
+                <marker date="1548656187324" expanded="true" signature="7319:7389" ph="{...}" />
+                <marker date="1548656187324" expanded="true" signature="7971:9953" ph="{...}" />
+                <marker date="1548656187324" expanded="true" signature="8582:9073" ph="{...}" />
+                <marker date="1548656187324" expanded="true" signature="9162:9517" ph="{...}" />
+                <marker date="1548656187324" expanded="true" signature="9572:9939" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/posttask.http">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/postproject.http">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="26" selection-start-column="26" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/CFT/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CFT/Controllers/ProjectsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CFT/Controllers/TasksController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CFT/Startup.cs" />
+        <option value="$PROJECT_DIR$/CFT/Controllers/ProjectsController.cs" />
+        <option value="$PROJECT_DIR$/CFT/Controllers/TasksController.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/postproject.http" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="993" />
+    <option name="y" value="27" />
+    <option name="width" value="917" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CFT" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CFT" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CFT" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CFT" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CFT" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CFT" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CFT" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Models" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000/api/projects" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;name&quot;: &quot;kek&quot;,&#10;  &quot;description&quot;: &quot;jaj&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="HTTP Request.posttask#1">
+    <configuration name="postproject#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/postproject.http">
+      <method v="2" />
+    </configuration>
+    <configuration name="posttask#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/posttask.http">
+      <method v="2" />
+    </configuration>
+    <configuration name="CFT" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/CFT/CFT.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="CFT" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.posttask#1" />
+        <item itemvalue="HTTP Request.postproject#1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e21704cd-7b0b-4c3d-ba88-36f2ccc1aa62" name="Default Changelist" comment="" />
+      <created>1548655029285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548655029285</updated>
+      <workItem from="1548655037238" duration="1946000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1946000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24958494" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="REST Client" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CFT/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+          <folding>
+            <marker date="1548656183652" expanded="false" signature="6:457" ph="..." />
+            <marker date="1548656183652" expanded="true" signature="472:1768" ph="{...}" />
+            <marker date="1548656183652" expanded="true" signature="499:1766" ph="{...}" />
+            <marker date="1548656183652" expanded="true" signature="558:621" ph="{...}" />
+            <marker date="1548656183652" expanded="true" signature="844:1148" ph="{...}" />
+            <marker date="1548656183652" expanded="true" signature="1336:1760" ph="{...}" />
+            <marker date="1548656183652" expanded="true" signature="1383:1460" ph="{...}" />
+            <marker date="1548656183652" expanded="true" signature="1477:1682" ph="{...}" />
+            <marker date="1548656183652" expanded="true" signature="1508:1668" ph="/* The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/as ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CFT/Controllers/ProjectsController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="24" selection-end-column="34" />
+          <folding>
+            <marker date="1548656183608" expanded="false" signature="6:303" ph="..." />
+            <marker date="1548656183608" expanded="true" signature="330:3989" ph="{...}" />
+            <marker date="1548656183608" expanded="true" signature="437:3987" ph="{...}" />
+            <marker date="1548656183608" expanded="true" signature="555:636" ph="{...}" />
+            <marker date="1548656183608" expanded="true" signature="775:1342" ph="{...}" />
+            <marker date="1548656183608" expanded="true" signature="1448:1650" ph="{...}" />
+            <marker date="1548656183608" expanded="true" signature="1779:1898" ph="{...}" />
+            <marker date="1548656183608" expanded="true" signature="2038:2325" ph="{...}" />
+            <marker date="1548656183608" expanded="true" signature="2431:2671" ph="{...}" />
+            <marker date="1548656183608" expanded="true" signature="3009:3981" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CFT/Controllers/TasksController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+          <folding>
+            <marker date="1548656187324" expanded="false" signature="6:325" ph="..." />
+            <marker date="1548656187324" expanded="true" signature="352:9965" ph="{...}" />
+            <marker date="1548656187324" expanded="true" signature="456:7242" ph="{...}" />
+            <marker date="1548656187324" expanded="true" signature="484:543" ph="{...}" />
+            <marker date="1548656187324" expanded="true" signature="652:733" ph="{...}" />
+            <marker date="1548656187324" expanded="true" signature="751:1177" ph="/* GET api/tasks?page=1&amp;parameter=value ... */" />
+            <marker date="1548656187324" expanded="true" signature="1471:5356" ph="{...}" />
+            <marker date="1548656187324" expanded="true" signature="1511:2548" ph="{...}" />
+            <marker date="1548656187324" expanded="true" signature="3215:3467" ph="{...}" />
+            <marker date="1548656187324" expanded="true" signature="3644:3881" ph="{...}" />
+            <marker date="1548656187324" expanded="true" signature="3910:4157" ph="{...}" />
+            <marker date="1548656187324" expanded="true" signature="4202:4522" ph="{...}" />
+            <marker date="1548656187324" expanded="true" signature="4574:4894" ph="{...}" />
+            <marker date="1548656187324" expanded="true" signature="5456:5643" ph="{...}" />
+            <marker date="1548656187324" expanded="true" signature="5760:6118" ph="{...}" />
+            <marker date="1548656187324" expanded="true" signature="6249:6908" ph="{...}" />
+            <marker date="1548656187324" expanded="true" signature="6548:6772" ph="{...}" />
+            <marker date="1548656187324" expanded="true" signature="7011:7236" ph="{...}" />
+            <marker date="1548656187324" expanded="true" signature="7275:9963" ph="{...}" />
+            <marker date="1548656187324" expanded="true" signature="7319:7389" ph="{...}" />
+            <marker date="1548656187324" expanded="true" signature="7971:9953" ph="{...}" />
+            <marker date="1548656187324" expanded="true" signature="8582:9073" ph="{...}" />
+            <marker date="1548656187324" expanded="true" signature="9162:9517" ph="{...}" />
+            <marker date="1548656187324" expanded="true" signature="9572:9939" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/posttask.http">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/postproject.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

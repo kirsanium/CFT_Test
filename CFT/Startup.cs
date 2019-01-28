@@ -30,6 +30,7 @@ namespace CFT
             var connection = Configuration.GetConnectionString("CftDb");
             services.AddDbContext<ProjectContext>(options =>
                 options.UseNpgsql(connection));
+            
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
 
